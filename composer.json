@@ -1,0 +1,11 @@
+{
+    "name": "mediastrategi/vendor_lock",
+    "description": "To lock the vendor on packagist.org",
+    "authors": [
+        {
+            "name": "Mediastrategi",
+            "email": "information@mediastrategi.se"
+        }
+    ],
+    "require": {}
+}
